@@ -1,6 +1,4 @@
-# FP - Proyecto DAW
-
-![Logo](a4273b5c-92ff-4b18-bfd6-080ef748386c.png)
+# FP DAW
 
 ## Descripción
 Este repositorio contiene los ejercicios prácticos de **Formación Profesional en Desarrollo de Aplicaciones Web (DAW)** de la academia **Digitech**.  
